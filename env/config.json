@@ -1,0 +1,12 @@
+{
+  "local": {
+    "env": "local",
+    "ROOT": "/var/www/config",
+    "_solr": {
+      "config": "http://localhost:8983/solr/config"
+    },
+    "_mongodb": "mongodb://127.0.0.1:27017",
+    "logpath": "/var/www/config/.log",
+    "_data": "/var/www/config/.data"
+  }
+}
